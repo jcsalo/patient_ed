@@ -1,4 +1,3 @@
-
 ---
 title: "01-intro_LCI"
 author: "Jonathan Salo MD"
@@ -8,7 +7,6 @@ params:
   hide: FALSE
   show: FALSE
 output:
-  html_document: default
   pdf_document: default
   xaringan::moon_reader:
     lib_dir: libs
@@ -16,6 +14,7 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+  html_document: default
 ---
 <style type="text/css">
 .remark-slide-content {
