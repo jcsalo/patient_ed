@@ -1,11 +1,15 @@
 
 ---
-title: "LCI Intro"
-subtitle: "⚔"
-author: "Jonathan Salo"
+title: "01-intro_LCI"
+author: "Jonathan Salo MD"
 institute: "Levine Cancer Institute"
-date: "`r Sys.Date()`"
+#date: "`r Sys.Date()`"
+params:
+  hide: FALSE
+  show: FALSE
 output:
+  html_document: default
+  pdf_document: default
   xaringan::moon_reader:
     lib_dir: libs
     nature:
@@ -20,28 +24,32 @@ output:
     line-height: 1.6;
 }
 </style>
+
 <!--- P10000266--->
 <!--- Intro_02--->
-# Introduction
+I'm Dr Jonathan Salo, a  Cancer Surgeon at the Levine Cancer Institute.
 
-Dr Jonathan Salo
-
-Cancer Surgeon at the Levine Cancer Institute.
 If you’re seeing this video, it’s likely because you have an upcoming consultation scheduled.
 
 You may have a recent diagnosis of cancer. Whatever your situation, we have a great team of people who can help you every step of the way.
----
 
-# Building
-We’re in Building 2 of Levine Cancer Institute. If 
-you’re using GPS, the traffic circle for patient
-dropoff is located at 1320 East Morehead Street.
+???
 
-The entrance to the building is on East Morehead Street between South Kings and
-Kenilworth.
+notes here
 
 ---
-#Address
+[Link to Eso Dx Staging](02-Eso_Dx_Staging.html)
+
+
+## Building
+
+We’re in Building 2 of Levine Cancer Institute. If you’re using GPS, the traffic circle for patient dropoff is located at 1320 East Morehead Street.
+
+The entrance to the building is on East Morehead Street between South Kings and Kenilworth.
+
+---
+
+# Address
 
 A parking garage is right next door to the traffic circle.
 
@@ -60,6 +68,7 @@ However, we recognize how important it is to have
 the support and assistance of family members
 and friends, particularly if there is cancer
 involved.
+
 ---
 
 We do have several ways that we can make sure
@@ -72,6 +81,7 @@ and your family member will all be able to have a
 conversation together.
 
 ---
+
 Another option is a virtual visit, which is allows us
 to have a video conference.
 
@@ -81,6 +91,7 @@ link is available in the comments section.
 We have a webcam in the consultation room that
 we can use for a video call with your family
 member.
+
 ---
 
 Alternatively, I can call a family member from my
@@ -91,7 +102,9 @@ Please note that it can be difficult to get a good
 cell phone signal in our garage. It may help to
 park near the outside edge of the garage in
 order to get a better signal.
+
 ---
+
 During your consultation, we will review your case
 and the information that has been collected so
 far.
@@ -102,6 +115,7 @@ I will provide you with my evaluation and make a
 plan for the next steps
 
 ---
+
 Those next steps may include:
 
 - Additional xrays, such as a CT scan or PET scan
@@ -114,6 +128,7 @@ are having difficulty with eating
 therapy
 
 ---
+
 We recognize that a cancer diagnosis affects not
 only the patient but the whole community of
 family and friends. We have a lot of resources
@@ -126,6 +141,7 @@ with insurance and other financial issues
 managing symptoms
 
 ---
+
 We have a full-time staff of **dietitians**
 
 We have an **Integrative Oncology** program which
@@ -139,6 +155,7 @@ with the special needs of our patients over age
 75
 
 ---
+
 I would also ask you to sign up for the **MyAtrium Health Portal**. 
 This is a free and secure way for
 you to communicate with your care team at
@@ -152,24 +169,16 @@ messages, which is the quickest way to reach
 us.
 
 ---
-The MyAtrium Health Portal can be accessed via a
 
-web browser on the desktop computer, and
-
-there is an app for either iphone or android
+The MyAtrium Health Portal can be accessed via a web browser on the desktop computer, and there is an app for either iphone or android
 
 To sign up, go to myatriumhealth.org
 
 There is a link below
 
-To sign up, click New User. You will receive an
-
-activation text or email within 3 days
+To sign up, click New User. You will receive an activation text or email within 3 days
 
 ---
-
-
-
 
 
 If you need help setting up your account, we have
@@ -184,9 +193,7 @@ support staff available Monday through Friday
 
 ---
 
-When you come for a consultation, please bring
-
-with you
+When you come for a consultation, please bring with you
 
 • A list of your current medications
 
@@ -207,15 +214,10 @@ have
 I will look forward to meeting you.
 
 ---
-If you have a new diagnosis of cancer, please
 
-check out one of the following videos
+If you have a new diagnosis of cancer, please check out one of the following videos
 
-Feel free to subscribe so you can be notified about
+Feel free to subscribe so you can be notified about new videos
 
-new videos
-
-If there are video topics you would like us to cover,
-
-please leave a comment below.
+If there are video topics you would like us to cover, please leave a comment below.
 

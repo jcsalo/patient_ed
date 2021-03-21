@@ -26,7 +26,7 @@ output:
 
 Esophageal cancer can cause difficulty with swallowing, which can limit your body’s ability to 
 get the nutrition you need in order to keep your body healthy during cancer treatment.
-
+---
 I’m Dr Jonathan Salo, I’m a GI Cancer Surgeon.
 In this video you’ll learn about
 
@@ -40,9 +40,7 @@ In this video you’ll learn about
 
 For most people with esophageal cancer who have difficulty eating, things can get worse during cancer therapy.
 
-The reason is that the most common initial treatment in chemotherapy and radiation. Chemotherapy can tend to depress your appetite.
-
-Radiation can lead to a temporary ‘sunburn’ on the inside of the esphagus called radiation esophagitis. his usually gets better after the radiation ends
+Chemotherapy and radiation can lead to a temporary ‘sunburn’ on the inside of the esphagus called radiation esophagitis. his usually gets better after the radiation ends
 
 ---
 
